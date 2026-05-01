@@ -1,0 +1,18 @@
+[
+  {
+    "first_name": "Roshan",
+    "last_name": "Gurung",
+    "email": "roshant99@yopmail.com",
+    "phone": "9800564571",
+    "password": "98035bobU!",
+    "agency_name": "ClassEduCons",
+    "role_in_agency": "HR",
+    "agency_email": "ClassEduCons@yopmail.com",
+    "agency_website": "https://ClassEduCons.com",
+    "agency_address": "Charlotte",
+    "country": "Australia",
+    "experience_range": "3-5 years",
+    "services": ["Student Recruitment", "Counseling"],
+    "students_annually": "40"
+  }
+]
